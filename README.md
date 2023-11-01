@@ -1,5 +1,5 @@
 
-# # Royaume multi-tool.
+# # Selfmute - Fast command.
 Un programme qui permet de faciliter certains actions, tel que le mooveall, le muteall, le unmuteall, le kickall.
 
 Attention, je ne suis pas responsable de vos déranks.
@@ -16,16 +16,15 @@ cd royaumemultitool
 start install.bat
 ```
     
-## Authors
+## Features
 
-- [@Riyad](https://www.github.com/jamaisriyad)
+- ✅ ``.find @member`` : Permet de savoir dans quel vocal est le membre mentioné.
+- ✅ ``.join @member`` : Permet de rejoindre le vocal de la personne mentioné.
+- ✅ ``.kickall`` : Permet de kick toutes les personnes dans votre vocal.
+- ✅ ``.moveall`` : Permet de moove toutes les personnes de votre channel actuel vers un nouveau.
+- ✅ ``.muteall`` : Permet de mute toutes les personnes de votre channel vocal.
+- ✅ ``.muteall`` : Permet de unmute toutes les personnes de votre channel vocal.
 
-
-## FAQ
-
-#### Est-ce que je peux être banni ?
-
-Les selfbots sont interdit donc je ne suis pas responsable de vos actes.
 
 
 ## Lancement
@@ -36,4 +35,16 @@ Comment setup et lancer le programme ?
   Ouvrez le fichier "config.js" puis remplissez le.
   Lancer le fichier "start.bat"
 ```
+
+
+## FAQ
+
+#### Est-ce que je peux être banni ?
+
+Les selfbots sont interdit donc je ne suis pas responsable de vos actes.
+
+
+## Authors
+
+- [@Riyad](https://www.github.com/jamaisriyad)
 
